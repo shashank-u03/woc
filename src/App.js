@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react'
-import GLOBE from "vanta/dist/vanta.globe.min";
+import NET from "vanta/dist/vanta.net.min";
 import { BrowserRouter, Routes, Route, HashRouter } from "react-router-dom";
 
 import Navbar from './components/Navbar'
@@ -30,7 +30,7 @@ class App extends React.Component {
     this.vantaRef = React.createRef()
   }
   componentDidMount() {
-    this.vantaEffect = GLOBE({
+    this.vantaEffect = NET({
       el: this.vantaRef.current,
       mouseControls: true,
       touchControls: true,
@@ -39,8 +39,8 @@ class App extends React.Component {
       minWidth: 200.00,
       scale: 1.00,
       scaleMobile: 1.00,
-      color: 0xf20a14,
-      backgroundColor: 0x131313
+      color: 0xff0c19,
+      backgroundColor: 0xa0a0b
     })
   }
 
