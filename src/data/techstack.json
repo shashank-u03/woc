@@ -1,0 +1,70 @@
+[
+    {
+        "name":"Python",
+        "src":"python.jpg"
+    },
+    {
+        "name":"Django",
+        "src":"django.png"
+    },
+    {
+        "name":"Numpy",
+        "src":"numpy.png"
+    },
+    {
+        "name":"Pandas",
+        "src":"pandas.png"
+    },
+    {
+        "name":"Tensorflow",
+        "src":"tensorflow.png"
+    },
+    {
+        "name":"Node.js",
+        "src":"nodejs.png"
+    },
+    {
+        "name":"React",
+        "src":"react.png"
+    },
+    {
+        "name":"HTML, CSS, JS",
+        "src":"htmlcssjs.png"
+    },
+    {
+        "name":"Bootstrap",
+        "src":"bootstrap.png"
+    },
+    {
+        "name":"Flutter",
+        "src":"flutter.png"
+    },
+    {
+        "name":"Firebase",
+        "src":"firebase.png"
+    },
+    {
+        "name":"Dart",
+        "src":"dart.jpg"
+    },
+    {
+        "name":"Material UI",
+        "src":"materialui.jpg"
+    },
+    {
+        "name":"PyQt",
+        "src":"Qt.png"
+    },
+    {
+        "name":"Scikit Learn",
+        "src":"sklearn.jpg"
+    },
+    {
+        "name":"Socket IO",
+        "src":"socketio.jpg"
+    },
+    {
+        "name":"PyTorch",
+        "src":"pytorch.jpg"
+    }
+]

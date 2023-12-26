@@ -1,0 +1,178 @@
+[   
+    {
+        "title":"HTML-CSS-JS",
+        "events":[
+            {
+                "name":"Jigsaw Puzzle",
+                "img":"/events/html-css-js.jpg",
+                "description":"Embark on a captivating journey with our Jigsaw Puzzle Challenge! HTML establishes the foundation, CSS adds designs, and JS introduces the magic. Collectively, they shape our Jigsaw Puzzle experience. HTML structures the puzzle, CSS embellishes it with finesse, and JS incorporates seamless drag-and-drop functionality. Participate, connect, and witness the adventure unfolding piece by piece. Your journey awaits in every meticulously crafted line of code.",
+                "listTitle":"Project",
+                "list":[
+                    ["Documentation", "https://docs.google.com/document/d/1XXCeI29Lpz0rkHiImz2e3p2DR8tqO6SYFjDZu1cjVM0/edit?usp=drive_link"],
+                    ["Demo Video", "https://youtube.com"],
+                    ["Slack Channel", "https://slack.com"]
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Python with GUI",
+        "events":[
+            {
+                "name":"Anki-RecallHub",
+                "img":"/events/python.jpg",
+                "description":"Elevate your memory game using our Flash Card App developed in Python with PyQt5! Craft flashcards for text and images. The app employs a smart algorithm to dynamically adjust revision timings of flashcards based on user-defined categories such as easy, hard, or good. Dive into effective revision with this intuitive tool, all powered by the Python PyQt5 framework.",
+                "listTitle":"Project",
+                "list":[
+                    ["Documentation", "https://docs.google.com/document/d/1xaMaTQiM2Iw7kdV3V9Mo6_npdCoOImIF/edit?usp=sharing&ouid=108052529289297600560&rtpof=true&sd=true"],
+                    ["Demo Video", "https://youtube.com"],
+                    ["Slack Channel", "https://slack.com"]
+                ]
+            }
+        ]
+    },
+    {
+        "title":"React JS",
+        "events":[
+            {
+                "name":"IRCTC",
+                "img":"/events/reactjs.png",
+                "description":"We are making a third-party travel booking website. Just like a clone of IRCTC. in this journey, we are using tech-Stack such as HTML, CSS, Javascript, ReactJs and Firebase. That's it, only 5. We are mainly focused on ReactJs. So let's discuss our project, and how we are building it.? Our project mainly has three parts: Search for the source to the destination path, book the ticket, and cancel the ticket. These parts are the building blocks of our website. based on these, we are implementing payment, booked ticket list, cancelled ticked list, user profile,...... and many more. This journey is very interesting and very meaningful. here you find some challenges to implementing some kind of feature. so enjoy, start learning and developing.",
+                "listTitle":"Project",
+                "list":[
+                    ["Documentation", "https://docs.google.com/document/d/10W6uujkrPJ6MB3yhX6-P02jhsRQEhziM/edit?usp=sharing&ouid=108052529289297600560&rtpof=true&sd=true"],
+                    ["Demo Video", "https://youtube.com"],
+                    ["Slack Channel", "https://slack.com"]
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Node JS",
+        "events":[
+            {
+                "name":"Pictionary App",
+                "img":"/events/nodejs.jpg",
+                "description":"Embark on an exhilarating gaming journey with our cutting-edge multiplayer platform, meticulously crafted on Node.js and fortified with Socket.IO. Immerse yourself in real-time connectivity, where players seamlessly join virtual rooms for interactive and collaborative gameplay. Experience turn-based challenges, dynamic content sharing, and the magic of Socket.IO integration, ensuring a gaming adventure like never before. Welcome to a world where the thrill of multiplayer gaming is redefined, creating lasting memories with friends in a seamless and responsive gaming environment.",
+                "listTitle":"Project",
+                "list":[
+                    ["Documentation", "https://docs.google.com/document/d/1fnYwEs_vqSVgYwrxsfSSflYP5FN70pPWPp0HF1EfkkU/edit?usp=sharing"],
+                    ["Demo Video", "https://youtube.com"],
+                    ["Slack Channel", "https://slack.com"]
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Systems Programming",
+        "events":[
+            {
+                "name":"Version Control System",
+                "img":"/events/systems.jpg",
+                "description":"This project aims to delve into the world of version control systems (VCS), with a particular focus on developing a system similar to Git. The emphasis is on understanding the core concepts of version control, highlighting the importance of tracking and managing changes in software development.Version control is crucial in software development for tracking and managing changes to software code over time. It allows developers to revert to previous versions if necessary, collaborate effectively, and ensure the integrity and continuity of their codebase.",
+                "listTitle":"Project",
+                "list":[
+                    ["Documentation", "https://docs.google.com/document/d/1bHAA3S-hw7V_6hNuY3kPSOMscOoNZeb2/edit?usp=sharing&ouid=108052529289297600560&rtpof=true&sd=true"],
+                    ["Demo Video", "https://youtube.com"],
+                    ["Slack Channel", "https://slack.com"]
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Django",
+        "events":[
+            {
+                "name":"Disaster Management System",
+                "img":"/events/django.png",
+                "description":"The Disaster Management System, a Django-based web app, facilitates efficient disaster response. Users report incidents with location data displayed on a map. Registration offers roles as organizations or volunteers. Volunteers access and accept tasks.Organizations have their working domain and resources.This project can help you learn  Django, API integration, user authentication, and role-based functionality.This will help you in implementing practical solutions for real life problems.",
+                "listTitle":"Project",
+                "list":[
+                    ["Documentation", "https://docs.google.com/document/d/1oSwRbFgMZ_stGxO8hkAJagjBWAXoPXDPPD6puiI-1xQ/edit?usp=sharing"],
+                    ["Demo Video", "https://youtube.com"],
+                    ["Slack Channel", "https://slack.com"]
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Flutter",
+        "events":[
+            {
+                "name":"The Stock App",
+                "img":"/events/flutter.jpg",
+                "description":"One for All - One Application for all Users. Access detailed stock information and engage in Buy/Sell transactions. Stay informed with the latest News to enhance the security of your investments. Don't forget the right time to Buy/Sell the Stocks by maintaining the Watch-list.Add and withdraw funds from your account. Conduct an analysis of the stock for a rewarding investment or trading experience.",
+                "listTitle":"Project",
+                "list":[
+                    ["Documentation", "https://docs.google.com/document/d/1JdMKGU9KYtqjiWyJwciKVaRJIGaRmdLJ/edit?usp=sharing&ouid=108052529289297600560&rtpof=true&sd=true"],
+                    ["Demo Video", "https://youtube.com"],
+                    ["Slack Channel", "https://slack.com"]
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Data Science(Basics)",
+        "events":[
+            {
+                "name":"",
+                "img":"/events/datasci.png",
+                "description":"Data Science (Basic) is a fundamental hands-on introduction to data science project intended for audiences exploring data science and related fields for the first time. The project will provide a general overview of the workflow involved in data sciences, and guide the participants in drawing inferences from the data and answering questions based on it with an application-based industry-relevant example.On successful completion of project, the participants would gain basic know-how about the approach to solving data sciences problems and perform exploratory data analysis independently on datasets of their choice. In this project, the objective would be to process the data and predict a target data based on inputs from processed data.",
+                "listTitle":"Project",
+                "list":[
+                    ["Documentation", "https://docs.google.com/document/d/1dFFysoUSDWzNU3LjYP8WOBHMygcucRlj/edit?usp=sharing&ouid=108052529289297600560&rtpof=true&sd=true"],
+                    ["Demo Video", "https://youtube.com"],
+                    ["Slack Channel", "https://slack.com"]
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Data Science(Advanced)",
+        "events":[
+            {
+                "name":"Image Classifier",
+                "img":"/events/datasci.png",
+                "description":"The objective of this Advanced Data Science Project is to create an image classifier. This will tell which category the input image falls into. In this project, participants will scrape images from Google and create their own dataset. The dataset should contain more than 100 images of <class1>, <class2> and <class3> each. These images will be of different sizes, resolution, color models (RGB, Greyscale etc.) and other parameters. The data needs to be cleaned and preprocessed.Once the dataset is created, it has to be fed into a model that does the classification.",
+                "listTitle":"Project",
+                "list":[
+                    ["Documentation", "https://docs.google.com/document/d/18PZs9Xnu2pTmOCryuMtyqpO4RgGzNfV-sz2CHM2TuWE/edit?usp=sharing"],
+                    ["Demo Video", "https://youtube.com"],
+                    ["Slack Channel", "https://slack.com"]
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Deep Learning(Basics)",
+        "events":[
+            {
+                "name":"Name generation model",
+                "img":"/events/deep-learning.jpg",
+                "description":"In this project, participants will learn how to create a name generation model using both LSTM (Long Short-Term Memory) and GRU (Gated Recurrent Unit) neural networks. The project involves training these networks on a dataset of names to learn patterns and generate new, unique names. This hands-on experience offers insights into recurrent neural network architectures, data preprocessing for natural language processing, and the intricacies of model training and evaluation.",
+                "listTitle":"Project",
+                "list":[
+                    ["Documentation", "https://docs.google.com/document/d/1CCTsgq8gOw6dt4x3D8yWB3VL8WMM5BN-/edit?usp=sharing&ouid=108052529289297600560&rtpof=true&sd=true"],
+                    ["Demo Video", "https://youtube.com"],
+                    ["Slack Channel", "https://slack.com"]
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Deep Learning(Advanced)",
+        "events":[
+            {
+                "name":"Name generation model",
+                "img":"/events/deep-learning.jpg",
+                "description":"In this project, participants will learn how to create a name generation model using both LSTM (Long Short-Term Memory) and GRU (Gated Recurrent Unit) neural networks. The project involves training these networks on a dataset of names to learn patterns and generate new, unique names. This hands-on experience offers insights into recurrent neural network architectures, data preprocessing for natural language processing, and the intricacies of model training and evaluation.",
+                "listTitle":"Project",
+                "list":[
+                    ["Documentation", "https://docs.google.com/document/d/1CCTsgq8gOw6dt4x3D8yWB3VL8WMM5BN-/edit?usp=sharing&ouid=108052529289297600560&rtpof=true&sd=true"],
+                    ["Demo Video", "https://youtube.com"],
+                    ["Slack Channel", "https://slack.com"]
+                ]
+            }
+        ]
+    }
+]
