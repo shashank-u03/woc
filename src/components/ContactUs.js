@@ -52,17 +52,29 @@ export default class ContactUs extends React.Component{
         const data = {
             ...this.state
         }
-        e.preventDefault()
-        const formUrl = gForm.publicURL;
-        const q = queryString.stringifyUrl({
-            url: formUrl,
-            query: data
-        })
-        this.myRequest(q)
-        e.target.reset();
-        //window.location.reload(false)
-        this.handleOpen()
+    
+        // Check if preferences are unique
+        if (this.arePreferencesUnique(data)) {
+            e.preventDefault();
+            const formUrl = gForm.publicURL;
+            const q = queryString.stringifyUrl({
+                url: formUrl,
+                query: data
+            })
+            this.myRequest(q)
+            e.target.reset();
+            this.handleOpen();
+        } else {
+            alert("Preferences must be unique");
+        }
     }
+    
+    arePreferencesUnique = (data) => {
+        const preferences = [data[gForm.P1], data[gForm.P2], data[gForm.P3]];
+        const uniquePreferences = new Set(preferences);
+        return uniquePreferences.size === preferences.length;
+    }
+    
 
     render() { 
         return (
