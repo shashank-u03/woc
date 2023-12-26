@@ -22,7 +22,8 @@ function ScrollToTop() {
 
   return null;
 }
-
+const isMobile = window.innerWidth <= 768; // You can adjust this breakpoint as needed
+const blurValue = isMobile ? 2.0 : 0.5; // Adjust the blur values as needed
 
 class App extends React.Component {
   constructor() {
@@ -31,6 +32,7 @@ class App extends React.Component {
   }
   componentDidMount() {
     this.vantaEffect = NET({
+      
       el: this.vantaRef.current,
       mouseControls: true,
       touchControls: true,
@@ -40,7 +42,8 @@ class App extends React.Component {
       scale: 1.00,
       scaleMobile: 1.00,
       color: 0xff0c19,
-      backgroundColor: 0xa0a0b
+      backgroundColor: 0xa0a0b,
+      blur: blurValue
     })
   }
 
@@ -70,4 +73,3 @@ class App extends React.Component {
 }
 
 export default App;
-
