@@ -149,6 +149,8 @@ export default class ContactUs extends React.Component{
                                     >
                                         <option value="">Select Program</option>
                                         <option value="B. Tech">B. Tech</option>
+                                        <option value="Dual Major B. Tech">Dual Major B. Tech</option>
+                                        <option value="B. Tech - M. Tech Dual Degree">B. Tech - M. Tech Dual Degree</option>
                                         <option value="M.A.">M.A.</option>
                                         <option value="M. Tech">M. Tech</option>
                                         <option value="M.Sc. (IT/DS)">M.Sc. (IT/DS)</option>
