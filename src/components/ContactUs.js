@@ -105,6 +105,7 @@ export default class ContactUs extends React.Component{
                     <ul>
                         <li>1. There are <strong>no prerequisites</strong> in any category as you will be learning it from scratch.</li>
                         <li>2. Only <strong>freshers</strong> can participate in categories of <strong>HTML-CSS-JS</strong> and <strong>Python with GUI</strong>.</li>
+                        <li>3. Do register with your <strong>institute email id</strong> then only you will be eligible to prizes.</li>
                     </ul>
 
                     <div className='lg:flex bg-black/[.4] backdrop-blur-md rounded-xl p-8 mb-24 text-sm md:text-base'>
@@ -158,12 +159,26 @@ export default class ContactUs extends React.Component{
                                     </select>
                                 </div>
                                 <div className="md:flex w-full mb-4">
-                                    <label className="md:w-2/5 items-center flex block font-medium mb-2" for="grid-first-name">
+                                    <label className="md:w-2/5 items-center flex block font-medium mb-2" htmlFor="preference">
                                         Batch <span className='pl-1 text-red-500'>*</span>
                                     </label>
-                                    <input onChange={this.handleChange} name={gForm.Batch} className="block rounded w-full border border-gray-500/[.5] bg-black/[0.4] py-1 px-2" 
-                                        id="grid-first-name" type="text" placeholder="Enter your Batch(eg:- 2021/2022)" required/>
-                                    {/* <p className="text-red-500 text-xs italic">Please fill out this field.</p> */}
+                                    <select
+                                        onChange={this.handleChange}
+                                        name={gForm.Batch}
+                                        className="block rounded w-full border border-gray-500/[.5] bg-black/[0.4] py-1 px-2"
+                                        id="preference"
+                                        required
+                                    >
+                                        <option value="">Select Batch</option>
+                                        <option value="2017">2017</option>
+                                        <option value="2018">2018</option>
+                                        <option value="2019">2019</option>
+                                        <option value="2020">2020</option>
+                                        <option value="2021">2021</option>
+                                        <option value="2022">2022</option>
+                                        <option value="2023">2023</option>
+                                        
+                                    </select>
                                 </div>
                                 <div className="md:flex w-full mb-4">
                                     <label className="md:w-2/5 items-center flex block font-medium mb-2" htmlFor="preference">
