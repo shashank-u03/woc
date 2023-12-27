@@ -11,7 +11,8 @@ const gForm = {
     "Name":"entry.797876457",
     "Email":"entry.295637097",
     "Phone":"entry.747973734",
-    "Batch": "entry.337213622",
+    "Program": "entry.337213622",
+    "Batch": "entry.764587928",
     "P1": "entry.1131215445",
     "P2": "entry.271320743",
     "P3": "entry.429453481",
@@ -88,7 +89,7 @@ export default class ContactUs extends React.Component{
                         <div className='backdrop-blur-md bg-black/[0.5] p-4 px-6 rounded-lg text-center '>
                             <h2 className='font-medium text-lg md:text-xl mb-2'>Thank You</h2>
                             <p className='mb-2'>
-                                Thank you for registering.
+                                Thank you for registering in Winter of Code 6.0
                             </p>
                             <p className='mb-2'>Happy Learning 🚀🚀</p>
                             <Button className="font-bold" variant="text"  onClick={this.handleClose}>Close</Button>
@@ -98,6 +99,14 @@ export default class ContactUs extends React.Component{
                     <h1 className="text-2xl md:text-4xl font-medium mb-10 text-center">
                         Register
                     </h1>
+                    <h2>
+                    <strong>Note:</strong>
+                    </h2>
+                    <ul>
+                        <li>1. There are <strong>no prerequisites</strong> in any category as you will be learning it from scratch.</li>
+                        <li>2. Only <strong>freshers</strong> can participate in categories of <strong>HTML-CSS-JS</strong> and <strong>Python with GUI</strong>.</li>
+                    </ul>
+
                     <div className='lg:flex bg-black/[.4] backdrop-blur-md rounded-xl p-8 mb-24 text-sm md:text-base'>
                         <form id="contactForm" className="lg:w-3/5" onSubmit={this.handleSubmit}
                             >
@@ -128,29 +137,33 @@ export default class ContactUs extends React.Component{
                                 </div>
                                 <div className="md:flex w-full mb-4">
                                     <label className="md:w-2/5 items-center flex block font-medium mb-2" htmlFor="preference">
-                                        Batch <span className='pl-1 text-red-500'>*</span>
+                                        Program <span className='pl-1 text-red-500'>*</span>
                                     </label>
                                     <select
                                         onChange={this.handleChange}
-                                        name={gForm.Batch}
+                                        name={gForm.Program}
                                         className="block rounded w-full border border-gray-500/[.5] bg-black/[0.4] py-1 px-2"
                                         id="preference"
                                         required
                                     >
-                                        <option value="">Select Batch</option>
-                                        <option value="B. Tech 2023">B. Tech 2023</option>
-                                        <option value="B. Tech 2022">B. Tech 2022</option>
-                                        <option value="B. Tech 2021">B. Tech 2021</option>
-                                        <option value="B. Tech 2020">B. Tech 2020</option>
-                                        <option value="M. Tech 2023">M. Tech 2023</option>
-                                        <option value="M. Tech 2022">M. Tech 2022</option>
-                                        <option value="M.Sc. (IT/DS) 2023">M.Sc. (IT/DS) 2023</option>
-                                        <option value="M.Sc. (IT/DS) 2022">M.Sc. (IT/DS) 2022</option>
+                                        <option value="">Select Program</option>
+                                        <option value="B. Tech">B. Tech</option>
+                                        <option value="M.A.">M.A.</option>
+                                        <option value="M. Tech">M. Tech</option>
+                                        <option value="M.Sc. (IT/DS)">M.Sc. (IT/DS)</option>
                                         <option value="M.Des.">M.Des.</option>
                                         <option value="PhD">PhD</option>
                                         {/* <option value="C">Choice 3</option> */}
                                         
                                     </select>
+                                </div>
+                                <div className="md:flex w-full mb-4">
+                                    <label className="md:w-2/5 items-center flex block font-medium mb-2" for="grid-first-name">
+                                        Batch <span className='pl-1 text-red-500'>*</span>
+                                    </label>
+                                    <input onChange={this.handleChange} name={gForm.Batch} className="block rounded w-full border border-gray-500/[.5] bg-black/[0.4] py-1 px-2" 
+                                        id="grid-first-name" type="text" placeholder="Enter your Batch(eg:- 2021/2022)" required/>
+                                    {/* <p className="text-red-500 text-xs italic">Please fill out this field.</p> */}
                                 </div>
                                 <div className="md:flex w-full mb-4">
                                     <label className="md:w-2/5 items-center flex block font-medium mb-2" htmlFor="preference">

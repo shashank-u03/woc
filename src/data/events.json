@@ -9,8 +9,7 @@
                 "listTitle":"Project",
                 "list":[
                     ["Documentation", "https://docs.google.com/document/d/1XXCeI29Lpz0rkHiImz2e3p2DR8tqO6SYFjDZu1cjVM0/edit?usp=drive_link"],
-                    ["Demo Video", "https://youtube.com"],
-                    ["Slack Channel", "https://slack.com"]
+                    ["Slack Channel", "https://join.slack.com/t/woc60/shared_invite/zt-29ti20idd-Z45MHESbTCs137iKi3qBYg"]
                 ]
             }
         ]
@@ -25,8 +24,7 @@
                 "listTitle":"Project",
                 "list":[
                     ["Documentation", "https://docs.google.com/document/d/1xaMaTQiM2Iw7kdV3V9Mo6_npdCoOImIF/edit?usp=sharing&ouid=108052529289297600560&rtpof=true&sd=true"],
-                    ["Demo Video", "https://youtube.com"],
-                    ["Slack Channel", "https://slack.com"]
+                    ["Slack Channel", "https://join.slack.com/t/woc60/shared_invite/zt-29ti20idd-Z45MHESbTCs137iKi3qBYg"]
                 ]
             }
         ]
@@ -41,8 +39,7 @@
                 "listTitle":"Project",
                 "list":[
                     ["Documentation", "https://docs.google.com/document/d/10W6uujkrPJ6MB3yhX6-P02jhsRQEhziM/edit?usp=sharing&ouid=108052529289297600560&rtpof=true&sd=true"],
-                    ["Demo Video", "https://youtube.com"],
-                    ["Slack Channel", "https://slack.com"]
+                    ["Slack Channel", "https://join.slack.com/t/woc60/shared_invite/zt-29ti20idd-Z45MHESbTCs137iKi3qBYg"]
                 ]
             }
         ]
@@ -57,8 +54,7 @@
                 "listTitle":"Project",
                 "list":[
                     ["Documentation", "https://docs.google.com/document/d/1fnYwEs_vqSVgYwrxsfSSflYP5FN70pPWPp0HF1EfkkU/edit?usp=sharing"],
-                    ["Demo Video", "https://youtube.com"],
-                    ["Slack Channel", "https://slack.com"]
+                    ["Slack Channel", "https://join.slack.com/t/woc60/shared_invite/zt-29ti20idd-Z45MHESbTCs137iKi3qBYg"]
                 ]
             }
         ]
@@ -73,8 +69,7 @@
                 "listTitle":"Project",
                 "list":[
                     ["Documentation", "https://docs.google.com/document/d/1bHAA3S-hw7V_6hNuY3kPSOMscOoNZeb2/edit?usp=sharing&ouid=108052529289297600560&rtpof=true&sd=true"],
-                    ["Demo Video", "https://youtube.com"],
-                    ["Slack Channel", "https://slack.com"]
+                    ["Slack Channel", "https://join.slack.com/t/woc60/shared_invite/zt-29ti20idd-Z45MHESbTCs137iKi3qBYg"]
                 ]
             }
         ]
@@ -89,8 +84,7 @@
                 "listTitle":"Project",
                 "list":[
                     ["Documentation", "https://docs.google.com/document/d/1oSwRbFgMZ_stGxO8hkAJagjBWAXoPXDPPD6puiI-1xQ/edit?usp=sharing"],
-                    ["Demo Video", "https://youtube.com"],
-                    ["Slack Channel", "https://slack.com"]
+                    ["Slack Channel", "https://join.slack.com/t/woc60/shared_invite/zt-29ti20idd-Z45MHESbTCs137iKi3qBYg"]
                 ]
             }
         ]
@@ -105,8 +99,7 @@
                 "listTitle":"Project",
                 "list":[
                     ["Documentation", "https://docs.google.com/document/d/1JdMKGU9KYtqjiWyJwciKVaRJIGaRmdLJ/edit?usp=sharing&ouid=108052529289297600560&rtpof=true&sd=true"],
-                    ["Demo Video", "https://youtube.com"],
-                    ["Slack Channel", "https://slack.com"]
+                    ["Slack Channel", "https://join.slack.com/t/woc60/shared_invite/zt-29ti20idd-Z45MHESbTCs137iKi3qBYg"]
                 ]
             }
         ]
@@ -121,8 +114,7 @@
                 "listTitle":"Project",
                 "list":[
                     ["Documentation", "https://docs.google.com/document/d/1dFFysoUSDWzNU3LjYP8WOBHMygcucRlj/edit?usp=sharing&ouid=108052529289297600560&rtpof=true&sd=true"],
-                    ["Demo Video", "https://youtube.com"],
-                    ["Slack Channel", "https://slack.com"]
+                    ["Slack Channel", "https://join.slack.com/t/woc60/shared_invite/zt-29ti20idd-Z45MHESbTCs137iKi3qBYg"]
                 ]
             }
         ]
@@ -137,8 +129,7 @@
                 "listTitle":"Project",
                 "list":[
                     ["Documentation", "https://docs.google.com/document/d/18PZs9Xnu2pTmOCryuMtyqpO4RgGzNfV-sz2CHM2TuWE/edit?usp=sharing"],
-                    ["Demo Video", "https://youtube.com"],
-                    ["Slack Channel", "https://slack.com"]
+                    ["Slack Channel", "https://join.slack.com/t/woc60/shared_invite/zt-29ti20idd-Z45MHESbTCs137iKi3qBYg"]
                 ]
             }
         ]
@@ -147,14 +138,13 @@
         "title":"Deep Learning(Basics)",
         "events":[
             {
-                "name":"Name generation model",
+                "name":"Name Generation Model",
                 "img":"/events/deep-learning.jpg",
                 "description":"In this project, participants will learn how to create a name generation model using both LSTM (Long Short-Term Memory) and GRU (Gated Recurrent Unit) neural networks. The project involves training these networks on a dataset of names to learn patterns and generate new, unique names. This hands-on experience offers insights into recurrent neural network architectures, data preprocessing for natural language processing, and the intricacies of model training and evaluation.",
                 "listTitle":"Project",
                 "list":[
                     ["Documentation", "https://docs.google.com/document/d/1CCTsgq8gOw6dt4x3D8yWB3VL8WMM5BN-/edit?usp=sharing&ouid=108052529289297600560&rtpof=true&sd=true"],
-                    ["Demo Video", "https://youtube.com"],
-                    ["Slack Channel", "https://slack.com"]
+                    ["Slack Channel", "https://join.slack.com/t/woc60/shared_invite/zt-29ti20idd-Z45MHESbTCs137iKi3qBYg"]
                 ]
             }
         ]
@@ -163,14 +153,13 @@
         "title":"Deep Learning(Advanced)",
         "events":[
             {
-                "name":"Name generation model",
+                "name":"Neural Style Transfer",
                 "img":"/events/deep-learning.jpg",
-                "description":"In this project, participants will learn how to create a name generation model using both LSTM (Long Short-Term Memory) and GRU (Gated Recurrent Unit) neural networks. The project involves training these networks on a dataset of names to learn patterns and generate new, unique names. This hands-on experience offers insights into recurrent neural network architectures, data preprocessing for natural language processing, and the intricacies of model training and evaluation.",
+                "description":"Neural style transfer is a fascinating project that merges deep learning with art, harnessing the power of Convolutional Neural Networks (CNNs) to blend the content of one image with the stylistic elements of another. This technique involves two primary components: a content image (like a photograph) and a style image (typically an artwork). By employing a pre-trained CNN, such as VGG19, the model extracts feature representations of both content and style. The goal is to minimize the content and style losses, where the content loss ensures the output image retains the original content's structure, and the style loss infuses the artistic elements from the style image. This optimization process iteratively updates the output image, effectively 'transferring' the artistic style onto the content image, resulting in a unique, aesthetically blended creation. ",
                 "listTitle":"Project",
                 "list":[
-                    ["Documentation", "https://docs.google.com/document/d/1CCTsgq8gOw6dt4x3D8yWB3VL8WMM5BN-/edit?usp=sharing&ouid=108052529289297600560&rtpof=true&sd=true"],
-                    ["Demo Video", "https://youtube.com"],
-                    ["Slack Channel", "https://slack.com"]
+                    ["Documentation", "https://docs.google.com/document/d/1-2bjAspWJzz3cCaoQcka76GG7ju2cKUsUDWMMdoZ65Y/edit?usp=drive_link"],
+                    ["Slack Channel", "https://join.slack.com/t/woc60/shared_invite/zt-29ti20idd-Z45MHESbTCs137iKi3qBYg"]
                 ]
             }
         ]

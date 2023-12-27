@@ -48,6 +48,10 @@ export default function Footer() {
                         <a href="mailto: microsoftclub@daiict.ac.in" className="hover:text-cyan-400">
                             microsoftclub@daiict.ac.in
                         </a>
+                        <br></br>
+                        <a href="mailto: technical.secretary@iitgn.ac.in" className="hover:text-cyan-400">
+                            technical.secretary@iitgn.ac.in
+                        </a>
                 </div>
             </div>
             

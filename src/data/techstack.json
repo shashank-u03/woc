@@ -66,5 +66,9 @@
     {
         "name":"PyTorch",
         "src":"pytorch.jpg"
+    },
+    {
+        "name":"Jax",
+        "src": "jax.jpeg"
     }
 ]
