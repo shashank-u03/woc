@@ -65,7 +65,7 @@ export default function Stages() {
 					<TimelineConnector /> 
 				</TimelineSeparator> 
 				<TimelineContent> 
-				<Paper elevation={3} style={paperstyle}>Mid Evaluation: 19th January, 2024
+				<Paper elevation={3} style={paperstyle}>Mid Evaluation: 19th January, 2024 - 20th January, 2024
 				</Paper> 
 				</TimelineContent> 
 			</TimelineItem>
