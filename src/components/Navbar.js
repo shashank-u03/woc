@@ -9,7 +9,7 @@ const navigation = [
     // {name:"Dreamspark", href:"/dreamspark"},
     // {name:"Members", href:"/members"},
     {name: "Timeline", href:"/timeline"},
-    {name:"Register", href:"/register"}
+    // {name:"Register", href:"/register"}
 ]
 
 export default function Navbar() {

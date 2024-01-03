@@ -6,7 +6,7 @@ const sitemap = [
     // {name:"Projects", href:"projects"},
     // {name:"Dreamspark", href:"/dreamspark"},
     {name:"Timeline", href:"/timeline"},
-    {name:"Register", href:"/register"}
+    // {name:"Register", href:"/register"}
 ] 
 
 

@@ -34,7 +34,7 @@ export default function Stages() {
 					<TimelineConnector /> 
 				</TimelineSeparator> 
 				<TimelineContent> 
-				<Paper elevation={3} style={paperstyle}>Registration: 28th December, 2023 - 2nd January, 2024
+				<Paper elevation={3} style={paperstyle}>Registration: 28th December, 2023 - 3rd January, 2024
 				</Paper> 
 				</TimelineContent> 
 			</TimelineItem> 
@@ -44,7 +44,7 @@ export default function Stages() {
 					<TimelineConnector /> 
 				</TimelineSeparator> 
 				<TimelineContent> 
-				<Paper elevation={3} style={paperstyle}>Project Allocation: 3rd January, 2024  
+				<Paper elevation={3} style={paperstyle}>Project Allocation: 4th January, 2024  
 				</Paper> 
 				</TimelineContent> 
 			</TimelineItem> 
@@ -55,7 +55,7 @@ export default function Stages() {
 				</TimelineSeparator> 
 				<TimelineContent> 
 				<Paper elevation={3} 
-					style={paperstyle}>Development Period Starts: 4th January, 2024 
+					style={paperstyle}>Development Period Starts: 5th January, 2024 
 				</Paper> 
 				</TimelineContent> 
 			</TimelineItem> 
