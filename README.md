@@ -19,11 +19,9 @@ Welcome to the Winter of Code 6.0 Registration Website! This website serves as a
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/winter-of-code-6.0-registration.git
+git clone https://github.com/shashank-u03/woc.git
 
 2. Navigate to the project directory:
-
-cd winter-of-code-6.0-registration
 
 3. Install dependencies:
 
@@ -33,22 +31,12 @@ npm install
 
 npm start
 
-
 5. Open your browser and visit `http://localhost:3000` to view the website.
-
-## Contributors
-
-- [Your Name](https://github.com/your-username)
-- [Contributor 1](https://github.com/contributor1)
-- [Contributor 2](https://github.com/contributor2)
 
 ## Feedback
 
-If you have any feedback, suggestions, or issues, please feel free to open an issue on the [GitHub repository](https://github.com/your-username/winter-of-code-6.0-registration/issues).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+If you have any feedback, suggestions, or issues, please feel free to open an issue on the repository
+(https://github.com/shashank-u03/woc/issues).
 
 
 
