@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# Winter of Code 6.0 Registration Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Winter of Code 6.0 Registration Website! This website serves as a platform for registration for the Winter of Code 6.0 event. It provides comprehensive information about various project categories, project descriptions, and the timeline of the event. The website is built using React.js and features an animated background using Vanta.js.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Registration:** Users can register for the Winter of Code 6.0 event through the website.
+- **Project Categories:** Explore different project categories available for participation.
+- **Project Descriptions:** Detailed descriptions of each project category to help participants choose.
+- **Event Timeline:** Get information about the schedule and important dates of the Winter of Code 6.0 event.
+- **Animated Background:** Enjoy an engaging visual experience with animated backgrounds powered by Vanta.js.
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React.js:** The frontend of the website is built using React.js, providing a dynamic and interactive user experience.
+- **Vanta.js:** Vanta.js is used to create captivating animated backgrounds, enhancing the visual appeal of the website.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation
 
-### `npm test`
+1. Clone the repository:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+git clone https://github.com/your-username/winter-of-code-6.0-registration.git
 
-### `npm run build`
+2. Navigate to the project directory:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+cd winter-of-code-6.0-registration
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. Install dependencies:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+npm install
 
-### `npm run eject`
+4. Start the development server:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+npm start
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+5. Open your browser and visit `http://localhost:3000` to view the website.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contributors
 
-## Learn More
+- [Your Name](https://github.com/your-username)
+- [Contributor 1](https://github.com/contributor1)
+- [Contributor 2](https://github.com/contributor2)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Feedback
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+If you have any feedback, suggestions, or issues, please feel free to open an issue on the [GitHub repository](https://github.com/your-username/winter-of-code-6.0-registration/issues).
 
-### Code Splitting
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
