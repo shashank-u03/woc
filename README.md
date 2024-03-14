@@ -19,17 +19,17 @@ Welcome to the Winter of Code 6.0 Registration Website! This website serves as a
 
 1. Clone the repository:
 
-git clone https://github.com/shashank-u03/woc.git
+    `git clone https://github.com/shashank-u03/woc.git`
 
 2. Navigate to the project directory:
 
 3. Install dependencies:
 
-npm install
+    `npm install`
 
 4. Start the development server:
 
-npm start
+    `npm start`
 
 5. Open your browser and visit `http://localhost:3000` to view the website.
 
